@@ -1,0 +1,3 @@
+D:/Program Files (x86)/CatsS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Program Files (x86)/CatsS/cmake-build-debug/CMakeFiles/CatsS.dir
+D:/Program Files (x86)/CatsS/cmake-build-debug/CMakeFiles/edit_cache.dir

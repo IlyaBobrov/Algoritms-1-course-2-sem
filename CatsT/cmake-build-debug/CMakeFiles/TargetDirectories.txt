@@ -1,0 +1,3 @@
+D:/Program Files (x86)/CatsT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Program Files (x86)/CatsT/cmake-build-debug/CMakeFiles/CatsT.dir
+D:/Program Files (x86)/CatsT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
